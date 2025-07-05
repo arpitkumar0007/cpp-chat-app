@@ -1,0 +1,19 @@
+# Visual Studio build artifacts
+[Bb]in/
+[Oo]bj/
+x64/
+Debug/
+Release/
+.vs/
+*.suo
+*.user
+*.pch
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+
+# Logs and backups
+*.log
+*~
