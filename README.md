@@ -182,9 +182,10 @@ Charlie: Great to see you all here! 🎉 [2025-07-05 09:16:02]
 
 ---
 
-## 📋 Roadmap
+## 📋 Future Enhancements
 
 - [ ] Cross-platform support (Linux, macOS)
+- [ ] Cloud Deployment
 - [ ] GUI version using Qt or similar
 - [ ] File transfer capabilities
 - [ ] Message encryption
