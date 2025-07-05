@@ -162,7 +162,7 @@ Charlie: Great to see you all here! 🎉 [2025-07-05 09:16:02]
 | Server Console | Client Console |
 |:--------------:|:--------------:|
 | ![Server Demo](serverss.png) | ![Client Demo](clientss.png) |
-| *Server managing multiple connections* | *Client interface with colored messages* |
+| *Server managing multiple connections* | *Client interface with multiple users* |
 
 </div>
 
