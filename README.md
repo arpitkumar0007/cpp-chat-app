@@ -141,7 +141,7 @@ John: Hello everyone! 👋 [2025-07-05 12:34:56]
 ---
 
 ## 🎬 Demo
-
+[![Watch the demo](video.png)](https://youtu.be/QD5ZUB4eCnw)
 > *A live demonstration of multiple clients chatting in real-time*
 
 [![Demo Video](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/QD5ZUB4eCnw)
