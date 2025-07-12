@@ -144,7 +144,8 @@ John: Hello everyone! 👋 [2025-07-05 12:34:56]
 
 > *A live demonstration of multiple clients chatting in real-time*
 
-[![Demo Video](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=your_video_id_here)
+[![Demo Video](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/QD5ZUB4eCnw)
+
 
 ### Sample Chat Session
 ```
